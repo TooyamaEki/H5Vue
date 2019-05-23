@@ -1,0 +1,69 @@
+卷 资料 的文件夹 PATH 列表
+卷序列号为 68E2-9809
+E:.
+│  .babelrc
+│  .editorconfig
+│  .gitignore
+│  .postcssrc.js
+│  index.html
+│  list.txt
+│  package-lock.json
+│  package.json
+│  README.md
+│  
+├─build
+│      build.js
+│      check-versions.js
+│      utils.js
+│      vue-loader.conf.js
+│      webpack.base.conf.js
+│      webpack.dev.conf.js
+│      webpack.prod.conf.js
+│      
+├─config
+│      dev.env.js
+│      index.js
+│      prod.env.js
+│      
+├─src
+│  │  App.vue
+│  │  main.js
+│  │  
+│  ├─assets
+│  │  ├─img
+│  │  └─style
+│  │          border.css
+│  │          reset .css
+│  │          
+│  ├─components
+│  ├─plugins
+│  │      wechatAuth.js
+│  │      
+│  ├─router
+│  │      index.js
+│  │      
+│  ├─store
+│  │  │  actions.js
+│  │  │  getters.js
+│  │  │  index.js
+│  │  │  mutations.js
+│  │  │  mutationTypes.js
+│  │  │  state.js
+│  │  │  
+│  │  └─modules
+│  │      │  index.js
+│  │      │  
+│  │      └─auth
+│  │              index.js
+│  │              mutationTypes.js
+│  │              
+│  ├─utils
+│  │      api.js
+│  │      cache.js
+│  │      request.js
+│  │      url.js
+│  │      
+│  └─views
+└─static
+        .gitkeep
+        
